@@ -3,7 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+<<<<<<< HEAD
 title: NZ IS JULAO!
+=======
+title: 
+>>>>>>> e26386f069ad316a29a5ea3eedcefe3a22562d92
 subtitle:
 description:
 keywords:
@@ -73,7 +77,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< HEAD
 theme: hexo-theme-ele 
+=======
+theme: landscape 
+>>>>>>> e26386f069ad316a29a5ea3eedcefe3a22562d92
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
